@@ -1,2 +1,2 @@
 # RFM-Analysis
-Customer Segmentation using Python
+Customer Segmentation using SQL and Visualization using Tableau
